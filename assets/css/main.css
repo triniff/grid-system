@@ -29,3 +29,36 @@ header{
 	top: 40%;
 	left: 35%;
 }
+
+.fondo{
+	background-image: url(http://lorempixel.com/1024/600/cats);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 30vh;
+	color: #FBE6C0;
+	font-size: 50px;
+}
+.col-4 button{
+	margin-top: 10px;
+	float: right;
+	border: 0;
+	padding: 10px 15px;
+	color: #FBE6C0;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+.sushi {
+	background-color: #080506;
+}
+.cats{
+	background-color: #C7A422;
+}
+.love {
+	background-color: #CE5451;
+}
+
+.col-4 p {
+	text-align: center;
+}
